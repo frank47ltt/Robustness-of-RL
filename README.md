@@ -1,11 +1,11 @@
-##Robustness of RL
+#Robustness of RL
 
-include
+includes:
 
-a literature review
+1. a literature review
 
-a project proposal
+2. a project proposal
 
-a research paper
+3. a research paper
 
-some of the important source code
+4. some of the important source code
